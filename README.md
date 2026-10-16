@@ -121,3 +121,7 @@ This project demonstrates an end-to-end data analytics workflow, from data prepa
 **Divya**
 
 Aspiring Data Analyst
+
+## Power BI Dashboard Preview
+
+![SWYNEX Power BI Dashboard](SWYNEX_Task3_Dashboard.png.jpeg)
